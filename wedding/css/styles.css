@@ -11418,6 +11418,9 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
+  background-color: rgba(255, 255, 255, .7);
+  padding: 10px;
+  border-radius: 8%;
 }
 
 @media (min-width: 768px) {
